@@ -1,0 +1,11 @@
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\bin\Debug\MainProject-1.exe.config
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\bin\Debug\MainProject-1.exe
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\bin\Debug\MainProject-1.pdb
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.exe
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.pdb
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\bin\Debug\Simplilearn-1.dll
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\bin\Debug\Simplilearn-1.pdb
+C:\Users\Lavanya\source\repos\MainProject-1\MainProject-1\obj\Debug\MainProject-1.csproj.CopyComplete

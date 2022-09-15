@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\bin\Debug\Simplilearn-1.pdb
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\obj\Debug\Simplilearn-1.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\obj\Debug\Simplilearn-1.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\obj\Debug\Simplilearn-1.dll
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\obj\Debug\Simplilearn-1.pdb
+C:\Users\Lavanya\source\repos\MainProject-1\Simplilearn-1\obj\Debug\Simplilearn-1.csproj.CopyComplete
